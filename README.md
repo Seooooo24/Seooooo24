@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=#FF0000&height=10&section=header&text=아엉이의깃허브&fontSize=5"
+<img src="https://capsule-render.vercel.app/api?type=egg&color=#FF0000&height=20&section=header&text=서아영의깃허브&fontSize=10" />
 <!--
 **Seooooo24/Seooooo24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
