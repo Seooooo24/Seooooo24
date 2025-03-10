@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=header&text=애기baby&fontSize=100" />
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
-<!--
 **Seooooo24/Seooooo24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
